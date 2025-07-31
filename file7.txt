@@ -1,1 +1,2 @@
- file7.txt is start 
+ file7.txt is start
+ this get config:
